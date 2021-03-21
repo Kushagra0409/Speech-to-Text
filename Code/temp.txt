@@ -1,0 +1,5 @@
+1. Run record.py
+2. the recorded audio is saved as output.wav
+3. Run Speech Recognition.py
+4. Enter file name as output.wav
+5. Did it work?
